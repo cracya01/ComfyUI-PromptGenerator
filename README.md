@@ -1,6 +1,8 @@
-# ComfyUI-PromptGenerator
+<img width="764" alt="{4154F89B-2DA2-476C-B1F1-F5CF22D9D53E}" src="https://github.com/user-attachments/assets/140cb26b-a455-4e43-8a2d-3c32c82c984d" /># ComfyUI-PromptGenerator
 
 A ComfyUI custom node that generates high-quality prompts for AI image generation using OpenAI API.
+<img width="764" alt="{4154F89B-2DA2-476C-B1F1-F5CF22D9D53E}" src="https://github.com/user-attachments/assets/03c002ef-1837-4357-a18d-f5d003d199d7" />
+
 
 ## Features
 
