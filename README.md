@@ -4,7 +4,10 @@ A ComfyUI custom node that generates high-quality prompts for AI image generatio
 
 ## Features
 
-- Generate creative and detailed prompts using OpenAI API (GPT-3.5, GPT-4)
+- Support for all OpenAI-compatible API services, not limited to specific models:
+  - Official OpenAI API
+  - Self-hosted open-source models (via LM Studio, text-generation-webui, etc.)
+  - Third-party compatible APIs (Claude API, Anthropic API, etc.)
 - Customize system prompts and user inputs
 - Filter generated text using regular expressions
 - Configure API parameters (temperature, max tokens, etc.)
